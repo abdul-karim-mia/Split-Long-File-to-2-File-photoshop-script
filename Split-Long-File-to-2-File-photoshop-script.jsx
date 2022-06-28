@@ -1,4 +1,4 @@
-﻿/*
+/*
 Split-Long-File-to-2-File-photoshop-script
 This will  split Your Long Image File into 2 separate file and save as png
   Date: 29/06/2022
@@ -15,7 +15,7 @@ This will  split Your Long Image File into 2 separate file and save as png
   This script is provided "as is" without warranty of any kind.
   Free to use, not for sale
   Released under the GNU license
-    
+    https://opensource.org/licenses/gpl-license
   Check other author's scripts: https://github.com/abdul-karim-mia
 */
 #target photoshop
